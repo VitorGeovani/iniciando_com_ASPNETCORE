@@ -14,4 +14,6 @@ As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui nest
 
 **É possível encontrar também Capturas de Tela onde mostro passo a passo da Tarefa 1 e o Certificado de Conclusão do Curso da Tarefa 4...**
 
-![](Capturas_de_tela/V.png)
+<p align="center">
+  <img src="Capturas_de_tela/V.png">
+  </p>

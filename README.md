@@ -13,3 +13,5 @@ Foram requisitadas quatro tarefas, sendo elas:
 As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui neste repositório é possível encontrar o resultado final da **Tarefa de número 1 e a Tarefa de número 4**
 
 **É possível encontrar também Capturas de Tela onde mostro passo a passo da Tarefa 1 e o Certificado de Conclusão do Curso da Tarefa 4...**
+
+![](Capturas_de_tela/V.png)

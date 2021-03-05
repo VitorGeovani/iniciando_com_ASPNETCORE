@@ -1,4 +1,4 @@
-# iniciando_com_ASPNETCORE
+# Iniciando com ASP.NET Core :open_file_folder:
 Aprendendo a usar o ASP.NET Core
 
 Neste repositório há exemplos práticos do uso de ASP.NET Core MVC em C#

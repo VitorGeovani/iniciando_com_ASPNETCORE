@@ -10,9 +10,9 @@ Foram requisitadas quatro tarefas, sendo elas:
 )**
 4. **Fazer o curso a seguir e entregar o projeto do seguinte curso: Iniciando com ASP.NET Core --> [Link do Curso](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core)**
 
-As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui neste repositório é possível encontrar o resultado final da **Tarefa de número 1 e a Tarefa de número 4**
+As instruções finais eram de entregar apenas Uma das quatro tarefas, aqui neste repositório é possível encontrar o resultado final da **Tarefa de número 1, Tarefa de número 2 e a Tarefa de número 4**
 
-**É possível encontrar também Capturas de Tela onde mostro passo a passo da Tarefa 1 e o Certificado de Conclusão do Curso da Tarefa 4...**
+**É possível encontrar também Capturas de Tela onde mostro o resultado final das Tarefa 1 e 2, e também, o Certificado de Conclusão do Curso da Tarefa 4...**
 
 <p align="center">
   <img src="Capturas_de_tela/V.png">

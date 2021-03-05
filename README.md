@@ -1,9 +1,9 @@
 # Iniciando com ASP.NET Core :open_file_folder:
-Aprendendo a usar o ASP.NET Core
+**Aprendendo a usar o ASP.NET Core...**
 
-Neste repositório há exemplos práticos do uso de ASP.NET Core MVC em C#
+**Neste repositório há exemplos práticos do uso de ASP.NET Core MVC em C#**
 
-Foram requisitadas quatro tarefas, sendo elas:
+**Foram requisitadas quatro tarefas, sendo elas:**
 1. **Concluir o tutorial: Introdução ao ASP.NET Core MVC**  :pushpin:
 2. **Desenvolver um CRUD com ASP.NET Core EF MVC - Cadastro de alunos (Id, Nome, email e RG)**  :pushpin:
 3. **Implementar o código da Live: Code First com ASP.NET MVC + Entity Framework do Youtube --> [Link da Live no Youtube](https://www.youtube.com/watch?v=KQ3CAUnDaSM
